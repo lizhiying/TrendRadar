@@ -24,7 +24,6 @@ OpenAI
 豆包
 
 DeepSeek
-梁文锋
 
 字节
 bytedance
